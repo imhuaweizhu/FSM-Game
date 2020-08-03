@@ -1,4 +1,4 @@
-# Written by Huawei Zhu
+# Authored by Huawei Zhu
 # 2019 Feb 20
 import pygame
 import pygame.locals
